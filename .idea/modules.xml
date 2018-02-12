@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JetPuffedMemeGenerator.iml" filepath="$PROJECT_DIR$/JetPuffedMemeGenerator.iml" />
+      <module fileurl="file://C:\Users\natta\Desktop\JetPuffedMemeGenerator\JetPuffedMemeGenerator.iml" filepath="C:\Users\natta\Desktop\JetPuffedMemeGenerator\JetPuffedMemeGenerator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\natta\Desktop\JetPuffedMemeGenerator\app\app.iml" filepath="C:\Users\natta\Desktop\JetPuffedMemeGenerator\app\app.iml" />
     </modules>
   </component>
 </project>
